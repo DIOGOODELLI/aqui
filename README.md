@@ -1,6 +1,5 @@
 <html>
   <head>
-    <meta charset="utf-8">
   </head>
   <body>
       <table style="width:100%;  border: 1px solid black; border-collapse: collapse;">
@@ -86,9 +85,6 @@
 		Do not use ofencivos names only name that indicate whether help is very necessary. <br>
 		
 		I have 10 friends tested the app is the results are good ... it is possible to provide for a stomp, and prevent it from happening . <br>
-		
     </table>
-      
-      
   </body>
 </html>
